@@ -1,0 +1,29 @@
+{
+  "name": "html-bind",
+  "version": "0.0.1",
+  "description": "html-bind =========",
+  "main": "grunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaltura/html-bind.git"
+  },
+  "author": "Itay Kinnrot",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "80c230e2568b99670be2f6f81d805f7f9b48b5ed",
+  "dependencies": {
+    "grunt": "~0.4.1" ,
+      "grunt-contrib-concat": "*",
+      "grunt-contrib-jshint": "*",
+      "grunt-contrib-jasmine": "*",
+      "grunt-contrib-uglify": "*"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "html",
+    "bind"
+  ]
+}
